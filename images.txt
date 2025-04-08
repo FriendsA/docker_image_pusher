@@ -1,7 +1,7 @@
 nginx
 --platform=linux/arm64 nginx
 --platform=linux/arm64 jenkins/jenkins
---platform=linux/arm64 mcp/gitlab
+--platform=linux/arm64 gitlab/gitlab-ce:nightly
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest

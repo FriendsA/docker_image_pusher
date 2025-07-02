@@ -12,3 +12,5 @@
 
 #gitlab-runner
 --platform=linux/arm64 gitlab/gitlab-runner:bleeding
+#node
+arm64v8/node:24-slim

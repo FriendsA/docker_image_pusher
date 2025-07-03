@@ -17,4 +17,4 @@
 
 #gitlab-runner-helper
 --platform=linux/arm64 bitnami/gitlab-runner-helper:18.1.1-debian-12-r0
---platform=linux/arm64 gitlab/gitlab-runner-helper
+--platform=linux/arm64 gitlab/gitlab-runner-helper:x86_64-bleeding-nanoserver21H2
